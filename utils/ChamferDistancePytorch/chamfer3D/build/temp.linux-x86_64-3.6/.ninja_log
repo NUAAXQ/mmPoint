@@ -1,0 +1,3 @@
+# ninja log v5
+1	11022	1675892323016132128	/mnt/nas/qian/mmwave/3DAttriFlow/utils/ChamferDistancePytorch/chamfer3D/build/temp.linux-x86_64-3.6/chamfer3D.o	f02a749119b3a89f
+1	18862	1675892330841132465	/mnt/nas/qian/mmwave/3DAttriFlow/utils/ChamferDistancePytorch/chamfer3D/build/temp.linux-x86_64-3.6/chamfer_cuda.o	c64ddf83c32776a3
